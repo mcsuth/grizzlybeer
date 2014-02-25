@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get '/' do
-  erb :firstLandingPage
+  erb :map
 end
 
 get '/secondLandingPage' do
